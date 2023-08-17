@@ -7,15 +7,13 @@
 ## I am currently working on:
 
 - A personal portfolio
-- A personal blog
+- Thesis Project
 
 
 ## I am currently Learning:
 
-- Full Stack Development
 - Quantum Computing
-- Biocomputing
-- Artficial Intelligence
+
 
 
 ## Education
